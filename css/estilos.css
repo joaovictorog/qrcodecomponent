@@ -10,7 +10,7 @@ body {
     border-radius: 5%;
     max-width: 280px;
     height: 450px;
-    margin-top: 103.5px;
+    margin-top: calc((100vh - 450px) / 2);
 }
 
 .container .qrcode {
